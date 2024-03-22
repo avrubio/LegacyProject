@@ -1,0 +1,40 @@
+:root {
+  background-color: black;
+  color: burlywood;
+}
+.logo {
+  width: 5em;
+  height: 2.5em;
+}
+
+.carousel-item > img {
+  width: 400px;
+  height: 350px;
+}
+
+.join-btn {
+  background-color: #deb887 !important;
+  color: white;
+}
+
+.btn .join-btn:hover {
+  background-color: #7c756a;
+}
+
+footer {
+  background-color: black;
+}
+
+.footerLogo {
+  width: 70%;
+  height: 90%;
+}
+
+.hero > img {
+  height: auto;
+  width: 430px;
+}
+
+.jimi-paragraphs {
+  font-size: 1.145rem;
+}
